@@ -3,4 +3,4 @@
 相关资料也可以在这个markdown文件里面编辑添加，学习和分享带来无限进步！！！
   
     
-Markdown文件手册：http://xianbai.me/learn-md/article/about/readme.html
+Markdown手册：http://xianbai.me/learn-md/article/about/readme.html
