@@ -14,3 +14,9 @@
   
   -others 预训练方法在一些领域特定任务上的应用。
   
+
+相关链接： BERT-BiLSTM-CRF-NER https://github.com/macanv/BERT-BiLSTM-CRF-NER/tree/master/bert_base/bert
+
+BERT-RE   https://github.com/topics/bert-relation-extraction
+
+BERT-EE  https://github.com/liuhuanyong/ComplexEventExtraction
